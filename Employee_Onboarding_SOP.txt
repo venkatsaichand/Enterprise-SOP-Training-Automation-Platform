@@ -1,0 +1,258 @@
+────────────────────────────────────────────────────────────────────────────
+                    ACME DIGITAL SOLUTIONS PRIVATE LIMITED
+
+                    STANDARD OPERATING PROCEDURE (SOP)
+
+Document Title : New Employee Onboarding & IT Account Provisioning
+Document ID    : HR-IT-SOP-001
+Version        : 1.0
+Effective Date : 01 January 2026
+Department     : Human Resources & Information Technology
+Document Owner : HR Operations
+Review Cycle   : Annual
+Classification : Internal Use
+────────────────────────────────────────────────────────────────────────────
+
+1. PURPOSE
+
+The purpose of this Standard Operating Procedure (SOP) is to establish a standardized process for onboarding newly hired employees. This procedure ensures that all required documentation, IT accounts, security permissions, equipment allocation, and orientation activities are completed accurately and on time before the employee's first working day.
+
+This SOP aims to improve operational efficiency, ensure compliance with organizational policies, reduce onboarding delays, and provide a consistent experience for all new employees.
+
+────────────────────────────────────────────────────────────────────────────
+
+2. SCOPE
+
+This SOP applies to all permanent, contractual, and graduate employees joining Acme Digital Solutions Pvt. Ltd.
+
+The procedure involves collaboration between:
+
+• Human Resources
+• Hiring Managers
+• IT Support
+• Information Security
+• Facilities Management
+• Newly Hired Employees
+
+────────────────────────────────────────────────────────────────────────────
+
+3. ROLES AND RESPONSIBILITIES
+
+Human Resources
+
+• Verify employee documentation.
+• Create onboarding request.
+• Coordinate with all departments.
+• Schedule orientation sessions.
+• Confirm completion of onboarding.
+
+Hiring Manager
+
+• Approve onboarding request.
+• Request required software and system access.
+• Assign project responsibilities.
+• Conduct first-day welcome meeting.
+• Assign a mentor.
+
+IT Support
+
+• Create user accounts.
+• Configure corporate email.
+• Prepare laptop and accessories.
+• Install approved software.
+• Verify all systems are operational.
+
+Information Security
+
+• Enable Multi-Factor Authentication (MFA).
+• Review privileged access requests.
+• Ensure security policies are followed.
+
+Facilities Management
+
+• Prepare workstation.
+• Issue employee ID card.
+• Configure building access.
+• Arrange welcome kit.
+
+New Employee
+
+• Submit required documents.
+• Attend orientation.
+• Complete mandatory cybersecurity training.
+• Sign company policy acknowledgements.
+
+────────────────────────────────────────────────────────────────────────────
+
+4. PROCEDURE
+
+Step 1 – Offer Acceptance
+
+Human Resources receives the signed employment offer letter and confirms the employee's joining date.
+
+Step 2 – Documentation Verification
+
+HR verifies all required documents, including:
+
+• Government-issued ID
+• Educational certificates
+• Tax information
+• Employment contract
+• Bank account details
+
+If any mandatory document is missing, HR must suspend onboarding until all required documents are received.
+
+Step 3 – Onboarding Request
+
+HR creates an onboarding request in the HR Management System and assigns the request to the Hiring Manager.
+
+Step 4 – Manager Approval
+
+The Hiring Manager reviews the request and approves:
+
+• Department assignment
+• Required applications
+• System permissions
+• Hardware requirements
+
+Manager approval should be completed within one business day.
+
+Step 5 – IT Account Provisioning
+
+Once approved, IT Support creates:
+
+• Corporate Email
+• Microsoft Teams Account
+• VPN Access
+• HR Portal Account
+• Project Management Account
+• File Storage Access
+
+Step 6 – Device Preparation
+
+IT configures the employee laptop using the organization's standard system image.
+
+The following must be verified:
+
+• Antivirus installed
+• Disk encryption enabled
+• Operating system updated
+• Latest security patches installed
+• Endpoint management enabled
+
+If laptop inventory is unavailable, IT must issue a temporary device within one business day.
+
+Step 7 – Security Configuration
+
+Information Security enables:
+
+• Multi-Factor Authentication (MFA)
+• Password policy enforcement
+• Device compliance checks
+
+If privileged access is requested, Security approval must be obtained before granting access.
+
+Step 8 – Workplace Preparation
+
+Facilities prepares:
+
+• Employee ID card
+• Building access card
+• Assigned workstation
+• Welcome kit
+• Required office equipment
+
+Step 9 – Employee Orientation
+
+Human Resources conducts an orientation session covering:
+
+• Company overview
+• Code of Conduct
+• Leave Policy
+• Information Security
+• Workplace Safety
+• Communication Guidelines
+• Reporting Structure
+
+Step 10 – Manager Introduction
+
+The Hiring Manager:
+
+• Introduces the employee to the team.
+• Reviews first-week objectives.
+• Assigns a mentor.
+• Explains key responsibilities.
+• Confirms project assignments.
+
+Step 11 – Completion Verification
+
+HR confirms that:
+
+• Documents are verified.
+• Accounts are active.
+• Laptop has been issued.
+• Orientation completed.
+• Manager approval completed.
+• Security training completed.
+
+Only after all activities are complete may the onboarding request be marked as "Completed."
+
+────────────────────────────────────────────────────────────────────────────
+
+5. EXCEPTION HANDLING
+
+If employee documents are incomplete, onboarding must remain on hold until the required documents are submitted.
+
+If laptop inventory is unavailable, IT Support shall provide a temporary replacement device.
+
+If software licenses are unavailable, IT Support must notify Procurement immediately.
+
+If system access approval is delayed, only standard user access may be granted until final approval.
+
+If orientation cannot be conducted on the joining day, HR must schedule another session within three business days.
+
+If the employee fails mandatory cybersecurity training, privileged system access must remain disabled until training has been completed successfully.
+
+────────────────────────────────────────────────────────────────────────────
+
+6. SUCCESS CRITERIA
+
+The onboarding process is considered successful when:
+
+• Employee has access to all required systems.
+• Laptop is fully configured.
+• Security controls are enabled.
+• Mandatory training completed.
+• Mentor assigned.
+• Manager introduction completed.
+• Workstation prepared.
+• Onboarding completed within three business days.
+
+────────────────────────────────────────────────────────────────────────────
+
+7. RECORDS MAINTAINED
+
+The following records shall be maintained:
+
+• Employee Onboarding Request
+• Document Verification Checklist
+• Asset Allocation Form
+• IT Account Provisioning Log
+• Security Approval Record
+• Orientation Attendance Sheet
+• Employee Acknowledgement Form
+
+────────────────────────────────────────────────────────────────────────────
+
+8. REFERENCES
+
+• Employee Handbook
+• Information Security Policy
+• IT Asset Management Policy
+• Acceptable Use Policy
+• Code of Conduct
+• HR Employee Onboarding Guidelines
+
+────────────────────────────────────────────────────────────────────────────
+
+END OF DOCUMENT
