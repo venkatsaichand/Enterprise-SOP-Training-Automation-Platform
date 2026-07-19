@@ -5,6 +5,8 @@ import importlib.util
 from io import BytesIO, StringIO
 from typing import Any, Dict, List
 
+import streamlit as st
+
 from prompts import OUTPUT_SCHEMA, PROMPT_LIBRARY, SYSTEM_PROMPT, USER_PROMPT_TEMPLATE
 
 
@@ -37,7 +39,14 @@ def get_prompt_config(prompt_version: str | None = None) -> Dict[str, str]:
 
 
 def is_gemini_available() -> bool:
-    return bool(os.getenv("GEMINI_API_KEY"))
+    return bool(get_gemini_api_key())
+
+
+def get_gemini_api_key() -> str:
+    secret_value = st.secrets.get("GEMINI_API_KEY", "")
+    if secret_value:
+        return str(secret_value)
+    return os.getenv("GEMINI_API_KEY", "")
 
 
 def get_missing_dependencies() -> List[str]:
@@ -530,7 +539,7 @@ def generate_gemini_training_package(
         raise RuntimeError("AI generation is unavailable right now.") from exc
 
     prompt_config = get_prompt_config(prompt_version)
-    client = genai.Client()
+    client = genai.Client(api_key=get_gemini_api_key())
     response = client.models.generate_content(
         model=model,
         contents=prompt_config["user_prompt_template"].format(
